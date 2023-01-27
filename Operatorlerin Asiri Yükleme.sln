@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorlerin Asiri Yükleme", "Operatorlerin Asiri Yükleme\Operatorlerin Asiri Yükleme.csproj", "{ECEFA9FA-D5EC-49F8-B894-242143321CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECEFA9FA-D5EC-49F8-B894-242143321CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEFA9FA-D5EC-49F8-B894-242143321CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEFA9FA-D5EC-49F8-B894-242143321CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEFA9FA-D5EC-49F8-B894-242143321CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {238EE19D-67DD-44ED-AD28-3064806389FE}
+	EndGlobalSection
+EndGlobal
